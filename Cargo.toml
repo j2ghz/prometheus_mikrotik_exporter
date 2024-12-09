@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 prometheus_exporter_base = "0.31"
 reqwest = "0.10"
-tokio = { version = "0.2", features = ["full"] }
+tokio = { version = "1.18", features = ["full"] }
